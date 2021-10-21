@@ -7,22 +7,6 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Hienthidanhsach</title>
 
-        <style>
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-
-        @media (min-width: 768px) {
-            .bd-placeholder-img-lg {
-            font-size: 3.5rem;
-            }
-        }
-        </style>
-
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -35,7 +19,7 @@
 
   </head>
   <body>
-    <div class="b-example-divider"></div>
+    <div class="hienthidanhsach"></div>
 
     <div class="container">
         <header class="d-flex justify-content-center py-3">
